@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/recycler_bordered_bg"
+    android:padding="@dimen/default_padding">
+
+    <TextView
+        android:id="@+id/tv_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_item"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/et_item"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/et_item"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:background="#fff"
+        android:hint="@string/et_item_name"
+        android:inputType="text"
+        android:maxLength="30"
+        android:maxLines="1"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintLeft_toRightOf="@id/tv_unit"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_unit"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/et_unit"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@id/et_unit" />
+
+    <EditText
+        android:id="@+id/et_unit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:hint="@string/et_unit"
+        android:inputType="number"
+        android:maxLength="12"
+        android:maxLines="1"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintLeft_toRightOf="@id/tv_unit"
+        app:layout_constraintRight_toLeftOf="@id/tv_quantity"
+        app:layout_constraintTop_toBottomOf="@id/et_item" />
+
+    <TextView
+        android:id="@+id/tv_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_quantity"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/et_unit"
+        app:layout_constraintLeft_toRightOf="@id/et_unit"
+        app:layout_constraintRight_toLeftOf="@id/et_quantity"
+        app:layout_constraintTop_toTopOf="@id/et_unit" />
+
+    <EditText
+        android:id="@+id/et_quantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:hint="@string/et_quantity"
+        android:inputType="numberDecimal"
+        android:maxLength="10"
+        android:maxLines="1"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintLeft_toRightOf="@id/tv_quantity"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_item" />
+
+
+    <TextView
+        android:id="@+id/tv_measured"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="5dp"
+        android:text="@string/tv_measured"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_unit" />
+
+    <TextView
+        android:id="@+id/tv_total_items"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="5dp"
+        android:text="@string/tv_total_items"
+        android:textColor="#000"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_unit" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

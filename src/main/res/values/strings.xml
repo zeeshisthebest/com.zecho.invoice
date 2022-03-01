@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Invoice</string>
+    <string name="invoice">Invoice: %1$s</string>
+    <string name="description_company_logo">Company Logo</string>
+    <string name="tv_item">Item:</string>
+    <string name="tv_unit">Unit Price:</string>
+    <string name="et_unit">Price</string>
+    <string name="et_quantity">Quantity</string>
+    <string name="tv_quantity">Quantity:</string>
+    <string name="tv_measured">Measured In:</string>
+    <string name="et_item_name">Item Name</string>
+    <string name="date">Date: %1$s</string>
+    <string name="previous_invoice">Previous Invoice: %1$s</string>
+    <string name="tv_total_items">Total Items: %1$d</string>
+    <string name="review_customer_info">Name: %1$s\nPhone: %2$s\nAddress: %3$s</string>
+    <string name="grand_total"><b>TOTAL: Rs/=%1$s</b></string>
+    <string name="please_wait_nsaving_invoice">Please Wait\nSaving invoice</string>
+    <string name="saved">Saved: %1$s</string>
+
+    <string-array name="measured_unit">
+        <item>mg</item>
+        <item>grams</item>
+        <item>KG</item>
+        <item>Litre</item>
+        <item>mL</item>
+        <item>Bag</item>
+        <item>Drum</item>
+        <item>Can</item>
+        <item>Gallon</item>
+        <item>Pack</item>
+    </string-array>
+</resources>
