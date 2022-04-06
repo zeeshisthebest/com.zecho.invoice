@@ -6,7 +6,7 @@ I used **Apache Poi** to generate the output in excel which can be printed to pd
 
 ## Screenshots
 - This is the main screen of the app.
-![Main screen](/snapshots/1.png)
+![Main screen](/snapshots/1.png =180x400)
 - Dummy data
 ![data](/snapshots/2.png)
 
