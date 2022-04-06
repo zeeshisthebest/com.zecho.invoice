@@ -20,4 +20,4 @@ I used **Apache Poi** to generate the output in excel which can be printed to pd
 ![excel](/snapshots/excel.jpg)
 
 - PDF after "print-to-pdf" from MS Excel.
-![pdf](/snapshots/save.jpg)
+![pdf](/snapshots/pdf.jpg)
