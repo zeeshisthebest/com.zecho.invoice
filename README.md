@@ -5,19 +5,26 @@ I converted my python program (https://github.com/zeeshisthebest/ShopPOS-python-
 I used **Apache Poi** to generate the output in excel which can be printed to pdf using MS Office mobile app. The jar used as the library is modified version of Apache POI original lib because there's is a bug in netbeans that throws some duplication error when building the android app using gradle.
 
 ## Screenshots
-- This is the main screen of the app.
-![Main screen](/snapshots/1.png =180x400)
-- Dummy data
-![data](/snapshots/2.png)
-
-- Confirmation screen.
-![confirm](/snapshots/3.png)
-
-- After the file has been saved.
-![saving](/snapshots/4.png)
-
-- The excel produced by the app.
-![excel](/snapshots/excel.jpg)
-
-- PDF after "print-to-pdf" from MS Excel.
-![pdf](/snapshots/pdf.jpg)
+- This is the main screen of the app.<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/1.png?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+     width="180" height="400"/>
+<br>
+- Dummy data<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/2.png?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+     width="180" height="400"/>
+<br>
+- Confirmation screen.<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/3.png?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+     width="180" height="400"/>
+<br>
+- After the file has been saved.<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/4.png?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+     width="180" height="400"/>
+<br>
+- The excel produced by the app.<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/excel.jpg?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+     width="180" height="400"/>
+<br>
+- PDF after "print-to-pdf" from MS Excel.<br>
+<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/pdf.jpg?token=GHSAT0AAAAAABTJEQISEORTQRUAEZOIJZU4YSN4K2A" 
+     width="180" height="400"/>
