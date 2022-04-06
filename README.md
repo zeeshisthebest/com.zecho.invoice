@@ -7,18 +7,17 @@ I used **Apache Poi** to generate the output in excel which can be printed to pd
 ## Screenshots
 - This is the main screen of the app.
 ![Main screen](/snapshots/1.png)
-<br>
 - Dummy data
 ![data](/snapshots/2.png)
-<br>
+
 - Confirmation screen.
 ![confirm](/snapshots/3.png)
-<br>
+
 - After the file has been saved.
 ![saving](/snapshots/4.png)
-<br>
+
 - The excel produced by the app.
 ![excel](/snapshots/excel.jpg)
-<br>
+
 - PDF after "print-to-pdf" from MS Excel.
 ![pdf](/snapshots/save.jpg)
