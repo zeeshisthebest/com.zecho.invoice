@@ -6,25 +6,30 @@ I used **Apache Poi** to generate the output in excel which can be printed to pd
 
 ## Screenshots
 - This is the main screen of the app.<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/1.png?token=GHSAT0AAAAAABTJEQITUDA6OGJUPE346GIQYSN4IGA" 
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/1.png?raw=true" 
      width="180" height="400"/>
 <br>
-- Dummy data<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/2.png?token=GHSAT0AAAAAABTJEQITHIMYIJ7UMF6IHGNYYSN4MNA" 
+- Dummy data
+<br>
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/2.png?raw=true" 
      width="180" height="400"/>
 <br>
-- Confirmation screen.<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/3.png?token=GHSAT0AAAAAABTJEQIS5GYOC4UH7TLV6N7KYSN4MXQ" 
+- Confirmation screen.
+<br>
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/3.png?raw=true" 
      width="180" height="400"/>
 <br>
-- After the file has been saved.<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/4.png?token=GHSAT0AAAAAABTJEQISAFCG4A6DXKVDNOB6YSN4NAQ" 
+- After the file has been saved.
+<br>
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/4.png?raw=true" 
      width="180" height="400"/>
 <br>
-- The excel produced by the app.<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/excel.jpg?token=GHSAT0AAAAAABTJEQITWNKNRUFVVWTULRP2YSN4NSA" 
+- The excel produced by the app.
+<br>
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/excel.jpg?raw=true" 
      width="180" height="400"/>
 <br>
-- PDF after "print-to-pdf" from MS Excel.<br>
-<img src="https://raw.githubusercontent.com/zeeshisthebest/com.zecho.invoice/main/snapshots/pdf.jpg?token=GHSAT0AAAAAABTJEQISEORTQRUAEZOIJZU4YSN4K2A" 
+- PDF after "print-to-pdf" from MS Excel.
+<br>
+<img src="https://github.com/zeeshisthebest/com.zecho.invoice/blob/main/snapshots/pdf.jpg?raw=true" 
      width="180" height="400"/>
